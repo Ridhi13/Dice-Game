@@ -1,0 +1,27 @@
+body{
+    background-color: #748DA6;
+    text-align: center;
+}
+.container{
+    color: #F2D7D9;
+    padding: 25px;
+
+
+}
+footer{
+    color: #D3CEDF;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 7.5rem;
+    margin-bottom: 20px;
+}
+h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+.Player{
+    display:inline-block;
+    margin: 10px;
+    margin-left: 50px;
+}
